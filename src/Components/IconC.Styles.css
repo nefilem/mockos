@@ -1,17 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-.window {
+.icon {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.25rem;
     position: fixed;
-    top: 16px;
-    left: 16px;
-    width: 200px;
-    height: 200px;
+    width: 64px;
+    height: 64px;
     border: 1px solid black;
-    resize: both;
-    overflow: auto;
-    background-color: rgba(255,255,255,1);
+    background-color: rgba(255,0,0,1);
 }
 
 .disable-text-selection{
@@ -25,6 +21,9 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 1.25rem;
     text-align: left;
+    position: fixed;
+    width: 64px;
+    height: 1.4rem;
     padding: 4px;
 }
 

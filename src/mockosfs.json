@@ -1,0 +1,4 @@
+{ "projects" : [ { "type" : "folder", "contents" : [ { "sunset predictor" : [ { "type" : "project", "text" : "Added additional functionality to a weather app I created whilst on the Developer Academy course.", "links" : [ { "github" : "https://github.com/nefilem/sunsetapp", "github pages" : "https://nefilem.github.io/sunsetapp/" } ], "technology" : [ { "HTML" : [ { "type" : "badge"} ], "React" : [ { "type" : "badge" } ], "CSS" : [ { "type" : "badge" } ] } ] } ] } ] } ], 
+  "media links" : [ { "type" : "folder", "contents" : [ { "facebook" : [ { "type" : "link", "url" : "https://www.facebook.com" } ],
+                                             "twitter" : [ { "type" : "link", "url" : "https://www.twitter.com"  } ] } ] } ] }
+    
